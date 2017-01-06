@@ -1,0 +1,36 @@
+OX_mNHB_9843124304({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://medianet-d.openx.net/{medium}/1.0/{rtype}?bi=c3ab7129-5810-4ac7-8016-c2df870d3773&ba=1483725842&ts={txn_state}",
+    "adunits" : [
+      {
+        "auid":"538127082",
+        "chain_revenue":"",
+        "size":"728x90",
+        "chain":[
+        ]
+      },
+      {
+        "auid":"538135542",
+        "chain_revenue":"",
+        "size":"300x250",
+        "chain":[
+        ]
+      },
+      {
+        "auid":"538152972",
+        "chain_revenue":"",
+        "size":"300x250",
+        "chain":[
+        ]
+      },
+      {
+        "auid":"538163562",
+        "chain_revenue":"",
+        "size":"300x250",
+        "chain":[
+        ]
+      }
+    ]
+  }
+});

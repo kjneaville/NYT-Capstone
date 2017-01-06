@@ -1,0 +1,15 @@
+OX_mNHB_7922506914({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://medianet-d.openx.net/{medium}/1.0/{rtype}?bi=c3ab7129-5810-4ac7-8016-c2df870d3773&ba=1483725842&ts={txn_state}",
+    "adunits" : [
+      {
+        "auid":"538127083",
+        "chain_revenue":"",
+        "size":"728x90",
+        "chain":[
+        ]
+      }
+    ]
+  }
+});
